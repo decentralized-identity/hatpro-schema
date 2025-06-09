@@ -16,4 +16,4 @@ npm run edit
 npx serve build
 ```
 
-Visit http://localhost:5000/
+Visit http://localhost:3000/
