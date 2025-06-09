@@ -1,9 +1,9 @@
-# template-for-work-items x.y Editor's Draft
+# hatpro-schema x.y Editor's Draft
 
 **Specification Status:** Pre-Draft
 
 **Latest Draft:**
-[identity.foundation/template-for-work-items](https://identity.foundation/template-for-work-items)
+[identity.foundation/hatpro-schema](https://identity.foundation/hatpro-schema)
 
 **Ratified Versions:**
 
@@ -13,9 +13,9 @@
 <!-- -->
 
 **Participate:**
-~ [GitHub repo](https://github.com/decentralized-identity/template-for-work-items)
-~ [File a bug](https://github.com/decentralized-identity/template-for-work-items/issues)
-~ [Commit history](https://github.com/decentralized-identity/template-for-work-items/commits/main)
+~ [GitHub repo](https://github.com/decentralized-identity/hatpro-schema)
+~ [File a bug](https://github.com/decentralized-identity/hatpro-schema/issues)
+~ [Commit history](https://github.com/decentralized-identity/hatpro-schema/commits/main)
 
 Except where otherwise noted, this work by the [Decentralized Identity Foundation](https://identity.foundation/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
 
@@ -27,7 +27,7 @@ This is a draft specification being developed within the
 [Decentralized Identity Foundation](https://identity.foundation) (DIF). Design
 work is ongoing, and participants are
 encouraged to open issues or otherwise contribute at [the DIF-hosted github
-repository](https://github.com/decentralized-identity/template-for-work-items),
+repository](https://github.com/decentralized-identity/hatpro-schema),
 whether as input to stable versions or as recommendations for future versions.
 
 ## Terminology
